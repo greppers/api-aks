@@ -24,12 +24,6 @@ docker run --name=greppers-db --network=greppers-network -d greppers/holus-db:la
 
 ## Spring
 
-Change your directory:
-
-```
-cd Backend/Backend
-```
-
 Build the image:
 
 ```
